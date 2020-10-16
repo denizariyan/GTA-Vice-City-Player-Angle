@@ -4,7 +4,7 @@ Intention of this project is to create a dev tool for GTA Vice City to be used f
 
 ## Installation
 
-### Using a precompiled executable (x64 only)
+### Using a precompiled executable
 
 1. Go to `https://github.com/denizariyan/GTA-Vice-City-Player-Angle/releases` and download the latest release.
 1. Extract the contents to a location.
