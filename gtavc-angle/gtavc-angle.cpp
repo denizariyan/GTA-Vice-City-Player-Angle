@@ -69,7 +69,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		{
 			degree = -(360-degree); /** 
 									 * Subtract from 360 because it can go over 360 since we added 90 before to get in line with the SCM
-									 * also invert the value because the values in the SCM is inverted
+									 * also invert the value because it was easier to debug like this, feel free to replace with "degree-360"
 									 */
 		}
 		ReadProcessMemory(phandle, (void*)address, &value, sizeof(value), 0);
