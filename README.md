@@ -23,7 +23,7 @@ Intention of this project is to create a dev tool for GTA Vice City to be used f
 
 ## Usage
 
-1. Launch the GTA Vice City v1.0 
+1. Launch the GTA Vice City v1.0 International
 1. Run the executable with admin permissions
 1. The console window will show the angle as in degrees offsetted for the use with Sanny Builder to create SCM files
 
