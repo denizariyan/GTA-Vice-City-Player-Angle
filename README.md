@@ -36,7 +36,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Disclaimer
 
-Rockstar Games does NOT endorse or sponsor this project. This is a community made project.
+Rockstar Games does NOT endorse or sponsor this project. This is a community made project to enrich the user experience.
 
 ## License
 Copyright (c) 2020 Deniz Ariyan
